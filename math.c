@@ -3,5 +3,5 @@ int add(int a, int b) {
 }
 
 char* version() {
-	return "1.0.0";
+	return "1.3.0";
 }
