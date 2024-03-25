@@ -1,5 +1,5 @@
 #include<stdio.h>
-#define HOTRELOAD 1
+/*#define HOTRELOAD 1*/
 
 #ifdef HOTRELOAD
 #include "hotreload.h"
