@@ -1,6 +1,6 @@
 # Hot Code Reloading in C
 
-Checkout blogpost: blog.codefade.com/posts/94386_hot_code_reloading_in_c/
+Checkout blogpost: [`codefade`](https://blog.codefade.com/posts/94386_hot_code_reloading_in_c/)
 
 ## TL;DR
 1. Branch `master`
